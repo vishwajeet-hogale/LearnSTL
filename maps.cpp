@@ -2,6 +2,10 @@
 #include<bits/stdc++.h>
 /* Map has key:value pairs 
    find/erase functions exist in maps as well that help in finding an element and deleting a pair log(N) */
+
+   /* It maintains a BST of keys inernally*/ 
+   /* Takes o(Nlog(N)) while inserting new elements */  
+   /* Set is a subset of maps */
 using namespace std;
 int main(){
     map<int,int> A;
