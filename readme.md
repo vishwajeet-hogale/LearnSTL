@@ -15,8 +15,10 @@
     You have to visit the points in the same order as they appear in the array.
     You are allowed to pass through points that appear later in the order, but these do not count as visits.
     3) Iterative knapsack problem solution.
+    4) Hamiltonian cycle 
 ## Answers  File name according to numbers 
     1) equalarr.cpp (c++ STL approach)
     2) min-path-2d-plane.cpp
     3) knapsack.cpp (c++ STL approach)
+    4) hamiltonian.cpp (c++ STL approach)
     
