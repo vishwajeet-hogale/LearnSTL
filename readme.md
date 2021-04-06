@@ -18,4 +18,5 @@
 ## Answers  File name according to numbers 
     1) equalarr.cpp (c++ STL approach)
     2) min-path-2d-plane.cpp
-    3) knapsack.cpp
+    3) knapsack.cpp (c++ STL approach)
+    

@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 int cmp(pair<int,float>a,pair<int,float>b){
-    return a.first>=b.first;
+    return a.second >= b.second;
 }
 float knapsack(int capacity,vector<float> profit,vector<float> weight,int n){
     float max = 0;
