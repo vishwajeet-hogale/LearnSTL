@@ -5,7 +5,7 @@ using namespace std;
 int cmp(pair<int,float>a,pair<int,float>b){
     return a.first>=b.first;
 }
-int knapsack(int capacity,vector<float> profit,vector<float> weight,int n){
+float knapsack(int capacity,vector<float> profit,vector<float> weight,int n){
     float max = 0;
     vector<pair<int,float>> proweight;
  
@@ -20,8 +20,10 @@ int knapsack(int capacity,vector<float> profit,vector<float> weight,int n){
     for(auto &x:proweight){
 
         if(capacity > 0 and weight[x.first]<=capacity){
+            // cout<<weight[x.first];
             capacity = capacity - weight[x.first];
             max = max + profit[x.first];
+            cout<<"Item number : "<<x.first<<"\tQuantity :"<<weight[x.first]<<endl;
         }
         else{
             break;
@@ -30,6 +32,7 @@ int knapsack(int capacity,vector<float> profit,vector<float> weight,int n){
             auto nx = next(&x,1);
             // cout<<capacity / weight[nx->first]<<endl;
             max = max + float(profit[nx->first] * (capacity / weight[nx->first])); 
+            cout<<"Item number : "<<nx->first<<"\tQuantity :"<<capacity<<endl;
             capacity = 0;
         }
         // cout<<max<<endl;
@@ -52,6 +55,7 @@ int main(){
         profit.push_back(temp);
         weight.push_back(temp1);
     }
-    cout<<"The maximum profit will be: " << knapsack(capacity,profit,weight,n)<<endl;
+    float res = knapsack(capacity,profit,weight,n);
+    cout<<"The maximum profit will be: " << res<<endl;
     return 0;
 }
