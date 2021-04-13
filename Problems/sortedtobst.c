@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+
+// In this code I did not handle the tail condition due to which it is going wrong 
 struct node
 {
     int val;
@@ -92,6 +95,9 @@ struct node *push(struct node *head, int val)
 
     return head;
 }
+struct treenode* bst(struct node* head){
+    return soretedListtoBST(head);
+}
 void printList(struct node *ptr)
 {
     while (ptr != NULL)
@@ -111,7 +117,7 @@ int main()
     // printList(majo);
     struct node* m = majo;
   
-    struct treenode* ptr = soretedListtoBST(m);
+    struct treenode* ptr = bst(m);
     
     preOrder(ptr);
 
