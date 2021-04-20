@@ -20,7 +20,7 @@
 3) Iterative knapsack problem solution.
 4) Hamiltonian cycle
 5) Find middle elemnt in a linked list]
-6)Anagram Solution : two strings with words. Go through each word and check if anagrams can be formed. If not then minimum modification that is needed to make it into an anagram
+6) Anagram Solution : two strings with words. Go through each word and check if anagrams can be formed. If not then minimum modification that is needed to make it into an anagram
 
 ## Answers File name according to numbers
 
@@ -29,4 +29,4 @@
 3) knapsack.cpp (c++ STL approach)
 4) hamiltonian.cpp (c++ STL approach)
 5) midelelist.c
-6)anagram.c
+6) anagram.c
