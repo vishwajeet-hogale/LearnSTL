@@ -21,6 +21,8 @@
 4) Hamiltonian cycle
 5) Find middle elemnt in a linked list]
 6) Anagram Solution : two strings with words. Go through each word and check if anagrams can be formed. If not then minimum modification that is needed to make it into an anagram
+7) License plate formatting : https://leetcode.com/problems/license-key-formatting/
+8) Longest Absolute File Path : https://leetcode.com/problems/longest-absolute-file-path/
 
 ## Answers File name according to numbers
 
@@ -30,3 +32,5 @@
 4) hamiltonian.cpp (c++ STL approach)
 5) midelelist.c
 6) anagram.c
+7) LicenseFormat.py
+8) LongestAbsoluteFilePath.py
