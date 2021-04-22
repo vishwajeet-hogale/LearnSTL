@@ -13,21 +13,6 @@ Time complexity = O(n) and space complexity = o(1)
 #include<bits/stdc++.h>
 #include<algorithm>
 using namespace std;
-int find_smallest(vector<int> m,vector<int>::iterator start_index,int num){
-    sort(start_index,m.end());
-
-    int f = -1;
-    for(auto i=start_index;i!= m.end();i++){
-        if(*i==num){
-            i++;
-            f = *i;
-        
-            break;
-        }
-    }
-    return f;
-
-}
 
 vector<int> next_permutation(vector<int> num){
     
