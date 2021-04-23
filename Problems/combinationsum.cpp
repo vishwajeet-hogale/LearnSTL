@@ -2,8 +2,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution {
-public:
     void findNumbers(vector<int>& ar, int sum,
                  vector<vector<int> >& res, vector<int>& r,
                  int i)
@@ -43,4 +41,31 @@ public:
  
     return res;
     }
-};
+int main(){
+    vector<int> res;
+ 
+ 
+    res.push_back(5);
+    res.push_back(15);
+    res.push_back(20);
+    res.push_back(5);
+    res.push_back(7);
+    res.push_back(9);
+    res.push_back(50);
+
+    vector<vector<int>> ar = combinationSum(res,100);
+    if(ar.size() == 0){
+        cout<<"No answer"<<endl;
+        return 0;
+    }
+    for (int i = 0; i < ar.size(); i++) {
+        if (ar[i].size() > 0) {
+            cout << " ( ";
+            for (int j = 0; j < ar[i].size(); j++)
+                cout << ar[i][j] << " ";
+            cout << ")"<<endl;
+        }
+    }
+    cout<<"Possible ways to get the output = "<<ar.size()<<endl;
+    return 0;
+}
