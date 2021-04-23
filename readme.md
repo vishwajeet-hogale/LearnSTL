@@ -26,6 +26,7 @@
 9) Next Permutation : https://leetcode.com/problems/next-permutation/
 10) Memoized fibonacci 
 11) Count the number of paths in the grid from one location to another.
+12) Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 ## Answers File name according to numbers
 
@@ -40,3 +41,4 @@
 9) nextpermutation.cpp (c++ STL approach)
 10) fibdp.cpp
 11) countpathfromtoplefttobottomright.cpp (No memoization)
+12) searchindexpostion.cpp
