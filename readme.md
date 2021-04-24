@@ -1,4 +1,4 @@
-# All problems being solved here are done using python or c++
+# All problems being solved here are done using python, c++ or c
 
 - Open the Problems Directory
 - Check the this readme and refer to the code which is either written in python or c++ or c
