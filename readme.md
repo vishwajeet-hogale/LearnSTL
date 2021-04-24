@@ -21,14 +21,14 @@
 4) Hamiltonian cycle
 5) Find middle elemnt in a linked list]
 6) Anagram Solution : two strings with words. Go through each word and check if anagrams can be formed. If not then minimum modification that is needed to make it into an anagram
-7) License plate formatting : https://leetcode.com/problems/license-key-formatting/
-8) Longest Absolute File Path : https://leetcode.com/problems/longest-absolute-file-path/
-9) Next Permutation : https://leetcode.com/problems/next-permutation/
-10) Memoized fibonacci 
+7) License plate formatting : <https://leetcode.com/problems/license-key-formatting/>
+8) Longest Absolute File Path : <https://leetcode.com/problems/longest-absolute-file-path/>
+9) Next Permutation : <https://leetcode.com/problems/next-permutation/>
+10) Memoized fibonacci
 11) Count the number of paths in the grid from one location to another.
 12) Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
-13) Combination sum : https://leetcode.com/problems/combination-sum/
-14) Maximum Subarray : https://leetcode.com/problems/maximum-subarray/
+13) Combination sum : <https://leetcode.com/problems/combination-sum/>
+14) Maximum Subarray : <https://leetcode.com/problems/maximum-subarray/>
 15) canSum : Function to check if a target sum be calculated given an array of numbers. Dp problem
 
 ## Answers File name according to numbers
@@ -48,4 +48,3 @@
 13) combinationsum.cpp
 14) maximumsubarray.cpp (DP approach c++)
 15) Dynamic_Programming/Memoization/canSum.cpp (Dp memoization)
-
