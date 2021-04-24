@@ -33,6 +33,8 @@
 16) climbing stairs : combination of 1's and 2's to reach nth step
 17) is subsequence : Is s a subsequence of t 
 18) Sell and buy stocks wit htransaction fee : <https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/>
+19) Integer Break : <https://leetcode.com/problems/integer-break/>
+
 
 ## Answers File name according to numbers
 
@@ -54,3 +56,4 @@
 16) Dynamic_Programming/Memoization/climbingstairs.cpp (Dp memoization)
 17) issubsequence.cpp (Iterative approach) 
 18) sellstockwithtransaction.py (Iterative)
+19) IntegerBreak.cpp : Backtracking solution
