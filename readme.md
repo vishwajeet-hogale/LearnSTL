@@ -32,6 +32,7 @@
 15) canSum : Function to check if a target sum be calculated given an array of numbers. Dp problem
 16) climbing stairs : combination of 1's and 2's to reach nth step
 17) is subsequence : Is s a subsequence of t 
+18) Sell and buy stocks wit htransaction fee : <https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/>
 
 ## Answers File name according to numbers
 
@@ -52,3 +53,4 @@
 15) Dynamic_Programming/Memoization/canSum.cpp (Dp memoization)
 16) Dynamic_Programming/Memoization/climbingstairs.cpp (Dp memoization)
 17) issubsequence.cpp (Iterative approach) 
+18) sellstockwithtransaction.py (Iterative)
