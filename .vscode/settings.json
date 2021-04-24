@@ -3,6 +3,7 @@
         "*.html": "html",
         "algorithm": "cpp",
         "complex": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
