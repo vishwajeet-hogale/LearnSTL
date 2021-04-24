@@ -30,6 +30,8 @@
 13) Combination sum : <https://leetcode.com/problems/combination-sum/>
 14) Maximum Subarray : <https://leetcode.com/problems/maximum-subarray/>
 15) canSum : Function to check if a target sum be calculated given an array of numbers. Dp problem
+16) climbing stairs : combination of 1's and 2's to reach nth step
+17) is subsequence : Is s a subsequence of t 
 
 ## Answers File name according to numbers
 
@@ -48,3 +50,5 @@
 13) combinationsum.cpp
 14) maximumsubarray.cpp (DP approach c++)
 15) Dynamic_Programming/Memoization/canSum.cpp (Dp memoization)
+16) Dynamic_Programming/Memoization/climbingstairs.cpp (Dp memoization)
+17) issubsequence.cpp (Iterative approach) 
