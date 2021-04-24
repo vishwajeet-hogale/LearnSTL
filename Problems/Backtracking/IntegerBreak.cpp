@@ -43,7 +43,7 @@ int integerBreak(int n) {
     return maximum;
 }
 int main(){
-    int a = integerBreak(25);
+    int a = integerBreak(47);
     cout<<a<<endl;
     return 0;
 }
