@@ -34,6 +34,9 @@
 17) is subsequence : Is s a subsequence of t 
 18) Sell and buy stocks wit htransaction fee : <https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/>
 19) Integer Break : <https://leetcode.com/problems/integer-break/>
+20) Maxdepth of a tree 
+21) symmetric tree
+22) Balanced Binary Tree
 
 
 ## Answers File name according to numbers
@@ -57,3 +60,6 @@
 17) issubsequence.cpp (Iterative approach) 
 18) sellstockwithtransaction.py (Iterative)
 19) IntegerBreak.cpp : Backtracking solution
+20) Tree/maxdepth.cpp : Recursive
+21) Tree/symmetrictree.cpp : Recursive
+22) Tree/balancedbintree.cpp : Recursive
