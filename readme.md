@@ -38,6 +38,8 @@
 21) symmetric tree
 22) Balanced Binary Tree
 23) FLatten Binary Tree to linked list
+24) Third Maximum number in an array
+25) Kth largest number in an array
 
 
 ## Answers File name according to numbers
@@ -65,3 +67,5 @@
 21) Tree/symmetrictree.cpp : Recursive
 22) Tree/balancedbintree.cpp : Recursive
 23) Tree/flattentree.cpp : Recursive
+24) Array/thirdMax.cpp
+25) Array/kthlargestarray.cpp
