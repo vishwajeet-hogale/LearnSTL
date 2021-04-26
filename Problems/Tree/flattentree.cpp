@@ -49,32 +49,52 @@ LinkedNode* insert_linked(LinkedNode *root,int val){
     }
     return head;
 }
-void flatten(node *root,LinkedNode *root1){
-    // LinkedNode* head = root1;
-    if(root == NULL){
-        return;
-    }
-    root1 = insert_linked(root1,root->data);
-    cout<<root->data<<"->";
-    flatten(root->left,root1);
-    flatten(root->right,root1);
+// void flatten(node *root,LinkedNode *root1){
+//     // LinkedNode* head = root1;
+//     if(root == NULL){
+//         return;
+//     }
+//     root1 = insert_linked(root1,root->data);
+//     cout<<root->data<<"->";
+//     flatten(root->left,root1);
+//     flatten(root->right,root1);
     
-}
-  
+// }
+void flatten(node* root) {
+        if(root==NULL)
+        {
+            return;
+        }
+        if(root->left == NULL && root->right == NULL)
+        {
+            return;
+        }
+        flatten(root->left);
+        node* left = root->left;
+        flatten(root->right);
+        node *right = root->right;
+        root->left = NULL;
+        root->right = left;
+        while(root->right!=NULL)
+        {
+            root = root->right;
+        }
+        root->right = right;
+    }
    
 
 int main(){
     vector<int> arr;
     arr.push_back(1);
-    arr.push_back(2);
-    arr.push_back(5);
     arr.push_back(3);
+    arr.push_back(4);
+    arr.push_back(5);
     arr.push_back(4);
     arr.push_back(6);
     
     
     struct node *root = insert(arr,root,0,arr.size());
-    flatten(root,NULL);
+    flatten(root);
     cout<<"NULL"<<endl;
     return 0;
 }
