@@ -37,6 +37,7 @@
 20) Maxdepth of a tree 
 21) symmetric tree
 22) Balanced Binary Tree
+23) FLatten Binary Tree to linked list
 
 
 ## Answers File name according to numbers
@@ -63,3 +64,4 @@
 20) Tree/maxdepth.cpp : Recursive
 21) Tree/symmetrictree.cpp : Recursive
 22) Tree/balancedbintree.cpp : Recursive
+23) Tree/flattentree.cpp : Recursive
