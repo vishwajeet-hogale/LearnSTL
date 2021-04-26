@@ -40,6 +40,7 @@
 23) FLatten Binary Tree to linked list
 24) Third Maximum number in an array
 25) Kth largest number in an array
+26) Find Duplicate Number (Only one number is repeated in the list/array)
 
 
 ## Answers File name according to numbers
@@ -69,3 +70,4 @@
 23) Tree/flattentree.cpp : Recursive
 24) Array/thirdMax.cpp
 25) Array/kthlargestarray.cpp
+26) Array/FindDuplicateNumber.cpp
