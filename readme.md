@@ -42,6 +42,7 @@
 25) Kth largest number in an array
 26) Find Duplicate Number (Only one number is repeated in the list/array)
 27) Minimum Operations to Make the Array Increasing : <https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/>
+28) Invert Binary Tree 
 
 
 ## Answers File name according to numbers
@@ -73,3 +74,4 @@
 25) Array/kthlargestarray.cpp
 26) Array/FindDuplicateNumber.cpp
 27) Array/MinimumOperationsToMakeIncArray.cpp
+28) Tree/invertTree.cpp
