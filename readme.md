@@ -44,6 +44,7 @@
 27) Minimum Operations to Make the Array Increasing : <https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/>
 28) Invert Binary Tree 
 29) Monotone array 
+30) Number of Susequences 
 
 
 ## Answers File name according to numbers
@@ -64,7 +65,7 @@
 14) maximumsubarray.cpp (DP approach c++)
 15) Dynamic_Programming/Memoization/canSum.cpp (Dp memoization)
 16) Dynamic_Programming/Memoization/climbingstairs.cpp (Dp memoization)
-17) issubsequence.cpp (Iterative approach) 
+17) issubsequence.cpp (Brute Force approach) 
 18) sellstockwithtransaction.py (Iterative)
 19) IntegerBreak.cpp : Backtracking solution
 20) Tree/maxdepth.cpp : Recursive
@@ -77,3 +78,5 @@
 27) Array/MinimumOperationsToMakeIncArray.cpp
 28) Tree/invertTree.cpp
 29) Array/MonotoneArray.cpp : Iterative 
+30) Array/numberofsubsequences.cpp
+
