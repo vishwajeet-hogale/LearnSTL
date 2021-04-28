@@ -47,6 +47,7 @@
 30) Number of Susequences 
 31) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/> (Backtracked)
 32) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/> (Iterative)
+33) Validate a binary Tree <https://leetcode.com/problems/validate-binary-search-tree/>
 
 
 ## Answers File name according to numbers
@@ -83,3 +84,4 @@
 30) Array/numberofsubsequences.cpp
 31) Backtracking/CountTheNumberOfTeams.cpp
 32) Array/CountTheNumberOfTeams.cpp
+33) Tree/validateBinaryTree.cpp
