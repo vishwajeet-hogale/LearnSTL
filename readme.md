@@ -45,6 +45,7 @@
 28) Invert Binary Tree 
 29) Monotone array 
 30) Number of Susequences 
+31) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/>
 
 
 ## Answers File name according to numbers
@@ -79,4 +80,4 @@
 28) Tree/invertTree.cpp
 29) Array/MonotoneArray.cpp : Iterative 
 30) Array/numberofsubsequences.cpp
-
+31) Backtracking/CountTheNumberOfTeams.cpp
