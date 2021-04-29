@@ -31,10 +31,10 @@
 14) Maximum Subarray : <https://leetcode.com/problems/maximum-subarray/>
 15) canSum : Function to check if a target sum be calculated given an array of numbers. Dp problem
 16) climbing stairs : combination of 1's and 2's to reach nth step
-17) is subsequence : Is s a subsequence of t 
+17) is subsequence : Is s a subsequence of t
 18) Sell and buy stocks wit htransaction fee : <https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/>
 19) Integer Break : <https://leetcode.com/problems/integer-break/>
-20) Maxdepth of a tree 
+20) Maxdepth of a tree
 21) symmetric tree
 22) Balanced Binary Tree
 23) FLatten Binary Tree to linked list
@@ -42,13 +42,13 @@
 25) Kth largest number in an array
 26) Find Duplicate Number (Only one number is repeated in the list/array)
 27) Minimum Operations to Make the Array Increasing : <https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/>
-28) Invert Binary Tree 
-29) Monotone array 
-30) Number of Susequences 
+28) Invert Binary Tree
+29) Monotone array
+30) Number of Susequences
 31) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/> (Backtracked)
 32) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/> (Iterative)
 33) Validate a binary Tree <https://leetcode.com/problems/validate-binary-search-tree/>
-
+34) Range Sum of a Binary Tree
 
 ## Answers File name according to numbers
 
@@ -68,7 +68,7 @@
 14) maximumsubarray.cpp (DP approach c++)
 15) Dynamic_Programming/Memoization/canSum.cpp (Dp memoization)
 16) Dynamic_Programming/Memoization/climbingstairs.cpp (Dp memoization)
-17) issubsequence.cpp (Brute Force approach) 
+17) issubsequence.cpp (Brute Force approach)
 18) sellstockwithtransaction.py (Iterative)
 19) IntegerBreak.cpp : Backtracking solution
 20) Tree/maxdepth.cpp : Recursive
@@ -80,8 +80,9 @@
 26) Array/FindDuplicateNumber.cpp
 27) Array/MinimumOperationsToMakeIncArray.cpp
 28) Tree/invertTree.cpp
-29) Array/MonotoneArray.cpp : Iterative 
+29) Array/MonotoneArray.cpp : Iterative
 30) Array/numberofsubsequences.cpp
 31) Backtracking/CountTheNumberOfTeams.cpp
 32) Array/CountTheNumberOfTeams.cpp
 33) Tree/validateBinaryTree.cpp
+34) Tree/RangeSumBST.cpp (inorder approach)
