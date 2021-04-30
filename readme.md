@@ -49,6 +49,7 @@
 32) Count The number of Teams : <https://leetcode.com/problems/count-number-of-teams/> (Iterative)
 33) Validate a binary Tree <https://leetcode.com/problems/validate-binary-search-tree/>
 34) Range Sum of a Binary Tree
+35) Two sum : Hashmap Solution <https://leetcode.com/problems/two-sum/>
 
 ## Answers File name according to numbers
 
@@ -86,3 +87,4 @@
 32) Array/CountTheNumberOfTeams.cpp
 33) Tree/validateBinaryTree.cpp
 34) Tree/RangeSumBST.cpp (inorder approach)
+35) Array/twosum.cpp
