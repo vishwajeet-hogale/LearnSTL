@@ -50,6 +50,7 @@
 33) Validate a binary Tree <https://leetcode.com/problems/validate-binary-search-tree/>
 34) Range Sum of a Binary Tree
 35) Two sum : Hashmap Solution <https://leetcode.com/problems/two-sum/>
+36) Good Nodes : <https://leetcode.com/problems/count-good-nodes-in-binary-tree/>
 
 ## Answers File name according to numbers
 
@@ -88,3 +89,4 @@
 33) Tree/validateBinaryTree.cpp
 34) Tree/RangeSumBST.cpp (inorder approach)
 35) Array/twosum.cpp
+36) Tree/goodnodes.cpp
