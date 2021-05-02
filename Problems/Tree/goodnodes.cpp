@@ -66,19 +66,27 @@ int goodNodesHelper(node* root, int max_value){
         return 0;
     return goodNodesHelper(root->left, max(max_value, root->data)) + goodNodesHelper(root->right, max(max_value, root->data)) + (root->data >= max_value);
 }
+
 int goodNodes(node* root) {
         return goodNodesHelper(root, INT_MIN);   
     }
+    // int goodNodes(node* root) {
+    //     int count = 0;
+    //     int g =INT_MIN;
+    //     onemoremethod(root, g);   
+    //     return count;
+    // }
 
 
 int main(){
     vector<int> arr;
+    arr.push_back(3);
     arr.push_back(1);
-
     arr.push_back(4);
-    arr.push_back(5);
-    arr.push_back(4);
+    arr.push_back(3);
     arr.push_back(6);
+    arr.push_back(7);
+    arr.push_back(5);
     
     
     struct node *root = insert(arr,root,0,arr.size());

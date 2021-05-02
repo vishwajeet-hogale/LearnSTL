@@ -51,6 +51,8 @@
 34) Range Sum of a Binary Tree
 35) Two sum : Hashmap Solution <https://leetcode.com/problems/two-sum/>
 36) Good Nodes : <https://leetcode.com/problems/count-good-nodes-in-binary-tree/>
+37) Adding two lists 
+38) Checking if a linked list is a palindrome
 
 ## Answers File name according to numbers
 
@@ -90,3 +92,5 @@
 34) Tree/RangeSumBST.cpp (inorder approach)
 35) Array/twosum.cpp
 36) Tree/goodnodes.cpp
+37) LinkedList/addingtwolists.cpp
+38) LinkedList/palindromelist.cpp
