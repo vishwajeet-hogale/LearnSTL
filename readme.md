@@ -53,6 +53,7 @@
 36) Good Nodes : <https://leetcode.com/problems/count-good-nodes-in-binary-tree/>
 37) Adding two lists 
 38) Checking if a linked list is a palindrome
+39) Ones and zeroes <https://leetcode.com/problems/ones-and-zeroes/>
 
 ## Answers File name according to numbers
 
@@ -94,3 +95,4 @@
 36) Tree/goodnodes.cpp
 37) LinkedList/addingtwolists.cpp
 38) LinkedList/palindromelist.cpp
+39) Recursion/oneszeroes.cpp
