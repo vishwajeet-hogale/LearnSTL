@@ -97,4 +97,4 @@
 37) LinkedList/addingtwolists.cpp
 38) LinkedList/palindromelist.cpp
 39) Recursion/oneszeroes.cpp
-40) Array/longestparanthesismatch.cpp
+40) Array/longestparanthesismatch.cpp (Brute force approach)
