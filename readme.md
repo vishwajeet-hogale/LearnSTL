@@ -54,6 +54,7 @@
 37) Adding two lists 
 38) Checking if a linked list is a palindrome
 39) Ones and zeroes <https://leetcode.com/problems/ones-and-zeroes/>
+40) Longest paranthesis substring 
 
 ## Answers File name according to numbers
 
@@ -96,3 +97,4 @@
 37) LinkedList/addingtwolists.cpp
 38) LinkedList/palindromelist.cpp
 39) Recursion/oneszeroes.cpp
+40) Array/longestparanthesismatch.cpp
