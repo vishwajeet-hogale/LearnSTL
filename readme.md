@@ -55,6 +55,7 @@
 38) Checking if a linked list is a palindrome
 39) Ones and zeroes <https://leetcode.com/problems/ones-and-zeroes/>
 40) Longest paranthesis substring 
+41) Toeplitz Matrix : A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements.
 
 ## Answers File name according to numbers
 
@@ -98,3 +99,4 @@
 38) LinkedList/palindromelist.cpp
 39) Recursion/oneszeroes.cpp
 40) Array/longestparanthesismatch.cpp (Brute force approach)
+41) Array/Toeplitzmat.cpp

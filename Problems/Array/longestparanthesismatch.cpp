@@ -47,9 +47,9 @@ int getMax(string s){
             
         }
     }
-    // for(auto const &val:m){
-    //     cout<<val.first<<"->"<<val.second<<endl;
-    // }
+    for(auto const &val:m){
+        cout<<val.first<<"->"<<val.second<<endl;
+    }
     return max;
 }
 int main(){
