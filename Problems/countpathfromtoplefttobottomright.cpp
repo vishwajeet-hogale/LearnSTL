@@ -9,8 +9,8 @@ to the bottom right corner of the grid
 #define M 3
 using namespace std;
 int grid [M][M] = {
-    {0,-1,-1},
-    {0,-1,-1},
+    {0,0,0},
+    {0,0,0},
     {0,0,1}};
 int checkValidSquare(int row,int col){
     if(row<M && col <M){
