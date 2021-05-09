@@ -57,6 +57,7 @@
 40) Longest paranthesis substring 
 41) Toeplitz Matrix : A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements.
 42) Spiral Matrix : <https://leetcode.com/problems/spiral-matrix/>
+43) First Unique Character : <https://leetcode.com/problems/first-unique-character-in-a-string/>
 
 ## Answers File name according to numbers
 
@@ -102,3 +103,4 @@
 40) Array/longestparanthesismatch.cpp (Brute force approach)
 41) Array/Toeplitzmat.cpp
 42) Array/spiralmatrix.cpp
+43) Array/firstuniquecharacter.cpp
