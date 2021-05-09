@@ -58,6 +58,8 @@
 41) Toeplitz Matrix : A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements.
 42) Spiral Matrix : <https://leetcode.com/problems/spiral-matrix/>
 43) First Unique Character : <https://leetcode.com/problems/first-unique-character-in-a-string/>
+44) Sort by frequency : <https://leetcode.com/problems/sort-characters-by-frequency/>
+45) Sort increasing order : <https://leetcode.com/problems/sort-array-by-increasing-frequency/>
 
 ## Answers File name according to numbers
 
@@ -104,3 +106,5 @@
 41) Array/Toeplitzmat.cpp
 42) Array/spiralmatrix.cpp
 43) Array/firstuniquecharacter.cpp
+44) String/sortbyfreq.cpp
+45) Array/sortincfrq.cpp
