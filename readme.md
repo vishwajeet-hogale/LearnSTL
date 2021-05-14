@@ -60,6 +60,7 @@
 43) First Unique Character : <https://leetcode.com/problems/first-unique-character-in-a-string/>
 44) Sort by frequency : <https://leetcode.com/problems/sort-characters-by-frequency/>
 45) Sort increasing order : <https://leetcode.com/problems/sort-array-by-increasing-frequency/>
+46) Genearte Parenthesis : <https://leetcode.com/problems/generate-parentheses/>
 
 ## Answers File name according to numbers
 
@@ -108,3 +109,4 @@
 43) Array/firstuniquecharacter.cpp
 44) String/sortbyfreq.cpp
 45) Array/sortincfrq.cpp
+46) Backtracking/generateParenthesis.cpp
