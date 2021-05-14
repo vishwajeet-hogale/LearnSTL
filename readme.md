@@ -61,6 +61,7 @@
 44) Sort by frequency : <https://leetcode.com/problems/sort-characters-by-frequency/>
 45) Sort increasing order : <https://leetcode.com/problems/sort-array-by-increasing-frequency/>
 46) Genearte Parenthesis : <https://leetcode.com/problems/generate-parentheses/>
+47) Longest Substring Match : <https://leetcode.com/problems/longest-substring-without-repeating-characters/>
 
 ## Answers File name according to numbers
 
@@ -110,3 +111,4 @@
 44) String/sortbyfreq.cpp
 45) Array/sortincfrq.cpp
 46) Backtracking/generateParenthesis.cpp
+47) String/longestsubstring.cpp
