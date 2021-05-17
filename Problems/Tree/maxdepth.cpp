@@ -23,6 +23,6 @@ int getMaxDepth(TreeNode *root){
     }
     int l = 1+getMaxDepth(root->left);
     int r = 1+getMaxDepth(root->right);
-    return max(l,r) -1 ;
+    return max(l,r) ;
     
 }
