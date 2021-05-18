@@ -65,6 +65,7 @@
 48) Add two linked lists : <https://leetcode.com/problems/add-two-numbers-ii/>
 49) Trim BST : <https://leetcode.com/problems/trim-a-binary-search-tree/>
 50) Remove instances of an element : <https://leetcode.com/problems/remove-element/>
+51) Relative Sorting : <https://leetcode.com/problems/relative-sort-array/>
 
 
 ## Answers File name according to numbers
@@ -119,3 +120,4 @@
 48) LinkedList/add-linked-list-ii.cpp 
 49) Tree/trimBST.cpp
 50) Array/removeInstance.cpp
+51) Array/relativeSorting.cpp
