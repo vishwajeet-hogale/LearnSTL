@@ -64,6 +64,8 @@
 47) Longest Substring Match : <https://leetcode.com/problems/longest-substring-without-repeating-characters/>
 48) Add two linked lists : <https://leetcode.com/problems/add-two-numbers-ii/>
 49) Trim BST : <https://leetcode.com/problems/trim-a-binary-search-tree/>
+50) Remove instances of an element : <https://leetcode.com/problems/remove-element/>
+
 
 ## Answers File name according to numbers
 
@@ -116,3 +118,4 @@
 47) String/longestsubstring.cpp
 48) LinkedList/add-linked-list-ii.cpp 
 49) Tree/trimBST.cpp
+50) Array/removeInstance.cpp
