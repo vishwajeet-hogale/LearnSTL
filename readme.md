@@ -66,6 +66,7 @@
 49) Trim BST : <https://leetcode.com/problems/trim-a-binary-search-tree/>
 50) Remove instances of an element : <https://leetcode.com/problems/remove-element/>
 51) Relative Sorting : <https://leetcode.com/problems/relative-sort-array/>
+52) K Closest Points to Origin : <https://leetcode.com/problems/k-closest-points-to-origin/>
 
 
 ## Answers File name according to numbers
@@ -121,3 +122,4 @@
 49) Tree/trimBST.cpp
 50) Array/removeInstance.cpp
 51) Array/relativeSorting.cpp
+52) kclosestpintstoorigin.cpp
