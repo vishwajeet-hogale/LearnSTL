@@ -67,7 +67,7 @@
 50) Remove instances of an element : <https://leetcode.com/problems/remove-element/>
 51) Relative Sorting : <https://leetcode.com/problems/relative-sort-array/>
 52) K Closest Points to Origin : <https://leetcode.com/problems/k-closest-points-to-origin/>
-
+53) Top K frequent items : priority_queue <https://leetcode.com/problems/top-k-frequent-elements/>
 
 ## Answers File name according to numbers
 
@@ -122,4 +122,5 @@
 49) Tree/trimBST.cpp
 50) Array/removeInstance.cpp
 51) Array/relativeSorting.cpp
-52) kclosestpintstoorigin.cpp
+52) Array/kclosestpintstoorigin.cpp
+53) Array/Topkfreqitems.cpp
