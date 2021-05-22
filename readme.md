@@ -71,6 +71,7 @@
 54) All elements in two binary tree : <https://leetcode.com/problems/all-elements-in-two-binary-search-trees/>
 55) Rotate String : <https://leetcode.com/problems/rotate-string/>
 56) Majority Element II :  <https://leetcode.com/problems/majority-element-ii/>
+57) Count Vowel Strings : <https://leetcode.com/problems/count-sorted-vowel-strings/>
 
 ## Answers File name according to numbers
 
@@ -130,3 +131,4 @@
 54) Tree/allelementsin2binarytree.cpp
 55) String/rotateString.cpp
 56) Array/majorityElements.cpp
+57) Backtracking/countVowelStrings.cpp
