@@ -68,6 +68,8 @@
 51) Relative Sorting : <https://leetcode.com/problems/relative-sort-array/>
 52) K Closest Points to Origin : <https://leetcode.com/problems/k-closest-points-to-origin/>
 53) Top K frequent items : priority_queue <https://leetcode.com/problems/top-k-frequent-elements/>
+54) All elements in two binary tree : <https://leetcode.com/problems/all-elements-in-two-binary-search-trees/>
+55) Rotate String : <https://leetcode.com/problems/rotate-string/>
 
 ## Answers File name according to numbers
 
@@ -124,3 +126,5 @@
 51) Array/relativeSorting.cpp
 52) Array/kclosestpintstoorigin.cpp
 53) Array/Topkfreqitems.cpp
+54) Tree/allelementsin2binarytree.cpp
+55) String/rotateString.cpp

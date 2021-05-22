@@ -15,7 +15,7 @@ int maxSubArray(vector<int>& nums) {
             if(max_so_far<=max_ending){
                 max_so_far = max_ending;
             }
-        }
+        }   
         return max_so_far;
         
 }
