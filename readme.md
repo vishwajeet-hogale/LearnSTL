@@ -73,6 +73,7 @@
 56) Majority Element II :  <https://leetcode.com/problems/majority-element-ii/>
 57) Count Vowel Strings : <https://leetcode.com/problems/count-sorted-vowel-strings/>
 58) Remove K digits
+59) Minimum cost path : <https://leetcode.com/problems/minimum-path-sum/>
 
 ## Answers File name according to numbers
 
@@ -134,3 +135,4 @@
 56) Array/majorityElements.cpp
 57) Backtracking/countVowelStrings.cpp
 58) Backtracking/removeKDigits.cpp
+59) Dynamic_Programming/minpathcost.cpp
