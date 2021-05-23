@@ -72,6 +72,7 @@
 55) Rotate String : <https://leetcode.com/problems/rotate-string/>
 56) Majority Element II :  <https://leetcode.com/problems/majority-element-ii/>
 57) Count Vowel Strings : <https://leetcode.com/problems/count-sorted-vowel-strings/>
+58) Remove K digits
 
 ## Answers File name according to numbers
 
@@ -132,3 +133,4 @@
 55) String/rotateString.cpp
 56) Array/majorityElements.cpp
 57) Backtracking/countVowelStrings.cpp
+58) Backtracking/removeKDigits.cpp
