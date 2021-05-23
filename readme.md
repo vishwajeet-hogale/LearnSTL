@@ -136,3 +136,10 @@
 57) Backtracking/countVowelStrings.cpp
 58) Backtracking/removeKDigits.cpp
 59) Dynamic_Programming/minpathcost.cpp
+
+
+
+
+## GFG 
+* Backtracking
+    * https://www.geeksforgeeks.org/backtracking-algorithms/
