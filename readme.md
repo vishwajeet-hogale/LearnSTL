@@ -74,6 +74,7 @@
 57) Count Vowel Strings : <https://leetcode.com/problems/count-sorted-vowel-strings/>
 58) Remove K digits
 59) Minimum cost path : <https://leetcode.com/problems/minimum-path-sum/>
+60) Permutations : <https://leetcode.com/problems/permutations/>
 
 ## Answers File name according to numbers
 
@@ -136,6 +137,7 @@
 57) Backtracking/countVowelStrings.cpp
 58) Backtracking/removeKDigits.cpp
 59) Dynamic_Programming/minpathcost.cpp
+60) Backtracking/all_permutations.cpp 
 
 
 
