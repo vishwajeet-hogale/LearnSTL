@@ -78,6 +78,7 @@
 61) Paths from source to destination : <https://leetcode.com/problems/all-paths-from-source-to-target/>
 62) Group Anagrams : <https://leetcode.com/problems/group-anagrams/>
 63) Intersection in linked list : <https://leetcode.com/problems/intersection-of-two-linked-lists/>
+64) Construct binary tree using preorder and inorder lists : <https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/>
 
 ## Answers File name according to numbers
 
@@ -144,6 +145,7 @@
 61) Backtracking/pathsfromsourcetodestination.cpp
 62) String/groupAnagrams.cpp
 63) LinkedList/intersectionLinkedList.cpp
+64) Tree/constructBinaryTreePI.cpp
 
 
 
