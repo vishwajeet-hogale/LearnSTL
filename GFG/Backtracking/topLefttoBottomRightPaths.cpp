@@ -1,7 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
-#define M 2
-#define N 3
+#define M 5
+#define N 7
 using namespace std;
 vector<vector<int>> graph(M, vector<int>(N, 0));
 bool isValid(int row, int col)
@@ -12,8 +12,7 @@ void helper(int row, int col, vector<int> &r, vector<vector<int>> &graph)
 {
     if (!isValid(row, col))
         return;
-    if (row > M || col > N)
-        return;
+
     if (row == M - 1 && col == N - 1)
     {
         r.push_back(graph[row][col]);
