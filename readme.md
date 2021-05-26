@@ -79,6 +79,7 @@
 62) Group Anagrams : <https://leetcode.com/problems/group-anagrams/>
 63) Intersection in linked list : <https://leetcode.com/problems/intersection-of-two-linked-lists/>
 64) Construct binary tree using preorder and inorder lists : <https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/>
+65) Hamming distance : <>
 
 ## Answers File name according to numbers
 
@@ -146,6 +147,8 @@
 62) String/groupAnagrams.cpp
 63) LinkedList/intersectionLinkedList.cpp
 64) Tree/constructBinaryTreePI.cpp
+65) Binary/hammingDistance.cpp
+
 
 
 
