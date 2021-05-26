@@ -84,6 +84,7 @@
 67) Mountain array : <https://leetcode.com/problems/peak-index-in-a-mountain-array/>
 68) Delete a node without using head : <https://leetcode.com/problems/delete-node-in-a-linked-list/>
 69) Number of 1 bits : <https://leetcode.com/problems/number-of-1-bits/>
+70) Minimum cost to reach the top : <https://leetcode.com/problems/min-cost-climbing-stairs/>
 
 ## Answers File name according to numbers
 
@@ -156,6 +157,9 @@
 67) Array/MountainArray.cpp
 68) LinkedList/deleteNodeWithoutHead.cpp
 69) Binary/numberOf1Bits.cpp
+70) Array/minCostToReachTop.cpp
+
+
 
 
 
