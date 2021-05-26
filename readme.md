@@ -83,6 +83,7 @@
 66) Find Peak Element : <https://leetcode.com/problems/find-peak-element/>
 67) Mountain array : <https://leetcode.com/problems/peak-index-in-a-mountain-array/>
 68) Delete a node without using head : <https://leetcode.com/problems/delete-node-in-a-linked-list/>
+69) Number of 1 bits : <https://leetcode.com/problems/number-of-1-bits/>
 
 ## Answers File name according to numbers
 
@@ -154,6 +155,7 @@
 66) Array/findPeakElement.cpp
 67) Array/MountainArray.cpp
 68) LinkedList/deleteNodeWithoutHead.cpp
+69) Binary/numberOf1Bits.cpp
 
 
 
