@@ -86,6 +86,7 @@
 69) Number of 1 bits : <https://leetcode.com/problems/number-of-1-bits/>
 70) Minimum cost to reach the top : <https://leetcode.com/problems/min-cost-climbing-stairs/>
 71) Sum of all left Leaves : <https://leetcode.com/problems/sum-of-left-leaves/>
+72) Reverse Substrings Between Each Pair of Parentheses : <https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/>
 
 ## Answers File name according to numbers
 
@@ -160,6 +161,7 @@
 69) Binary/numberOf1Bits.cpp
 70) Array/minCostToReachTop.cpp
 71) Tree/sumOfLeftLeaves.cpp 
+72) String/reverseSubstringsBetweenEachParentheses.cpp
 
 
 
