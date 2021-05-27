@@ -87,6 +87,7 @@
 70) Minimum cost to reach the top : <https://leetcode.com/problems/min-cost-climbing-stairs/>
 71) Sum of all left Leaves : <https://leetcode.com/problems/sum-of-left-leaves/>
 72) Reverse Substrings Between Each Pair of Parentheses : <https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/>
+73) Distribute Candies : <https://leetcode.com/problems/distribute-candies/>
 
 ## Answers File name according to numbers
 
@@ -162,7 +163,7 @@
 70) Array/minCostToReachTop.cpp
 71) Tree/sumOfLeftLeaves.cpp 
 72) String/reverseSubstringsBetweenEachParentheses.cpp
-
+73) Array/aliceCandies.py
 
 
 
