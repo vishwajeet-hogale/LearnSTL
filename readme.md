@@ -90,6 +90,7 @@
 73) Distribute Candies : <https://leetcode.com/problems/distribute-candies/>
 74) N Queens problem : <https://leetcode.com/problems/n-queens/>
 75) word break : <https://leetcode.com/problems/word-break/>
+76) Kth Smallest Element in a BST : <https://leetcode.com/problems/kth-smallest-element-in-a-bst/>
 
 ## Answers File name according to numbers
 
@@ -168,7 +169,7 @@
 73) Array/aliceCandies.py
 74) Backtracking/NQueens.cpp
 75) DynamicProgramming/Memoization/wordBreak.cpp
-
+76) Tree/kthSmallestElementBST.cpp
 
 
 
