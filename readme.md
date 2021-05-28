@@ -88,6 +88,8 @@
 71) Sum of all left Leaves : <https://leetcode.com/problems/sum-of-left-leaves/>
 72) Reverse Substrings Between Each Pair of Parentheses : <https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/>
 73) Distribute Candies : <https://leetcode.com/problems/distribute-candies/>
+74) N Queens problem : <https://leetcode.com/problems/n-queens/>
+75) word break : <https://leetcode.com/problems/word-break/>
 
 ## Answers File name according to numbers
 
@@ -164,7 +166,8 @@
 71) Tree/sumOfLeftLeaves.cpp 
 72) String/reverseSubstringsBetweenEachParentheses.cpp
 73) Array/aliceCandies.py
-
+74) Backtracking/NQueens.cpp
+75) DynamicProgramming/Memoization/wordBreak.cpp
 
 
 
