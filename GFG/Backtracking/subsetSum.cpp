@@ -12,7 +12,7 @@ bool subsetSum(vector<int> &nums, int target, int i)
     {
         return false;
     }
-    if (target > nums[i])
+    if (target >= nums[i])
     {
         return subsetSum(nums, target - nums[i - 1], i - 1) || subsetSum(nums, target, i - 1);
     }
