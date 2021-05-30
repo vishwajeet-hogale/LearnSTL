@@ -97,6 +97,7 @@
 80) Square of a sorted array : <https://leetcode.com/problems/squares-of-a-sorted-array/>
 81) Heigh Checker : <https://leetcode.com/problems/height-checker/>
 82) Search Insert Position : <https://leetcode.com/problems/search-insert-position/>
+83) Number of provinces : <https://leetcode.com/problems/number-of-provinces/>
 
 ## Answers File name according to numbers
 
@@ -182,7 +183,7 @@
 80) Array/squareSortedArray.cpp
 81) Array/heightChecker.cpp
 82) Array/searchInsertPosition.cpp
-
+83) Backtracking/provinces.cpp
 
 ## GFG 
 * Backtracking
