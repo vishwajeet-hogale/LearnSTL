@@ -95,6 +95,7 @@
 78) Split a balanced string : <https://leetcode.com/problems/split-a-string-in-balanced-strings/>
 79) Find common characters in words : <https://leetcode.com/problems/find-common-characters/>
 80) Square of a sorted array : <https://leetcode.com/problems/squares-of-a-sorted-array/>
+81) Heigh Checker : <https://leetcode.com/problems/height-checker/>
 
 ## Answers File name according to numbers
 
@@ -178,6 +179,7 @@
 78) String/balacedString.cpp
 79) String/findCommonCharacters.cpp
 80) Array/squareSortedArray.cpp
+81) Array/heightChecker.cpp
 
 ## GFG 
 * Backtracking
