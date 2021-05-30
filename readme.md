@@ -98,6 +98,7 @@
 81) Heigh Checker : <https://leetcode.com/problems/height-checker/>
 82) Search Insert Position : <https://leetcode.com/problems/search-insert-position/>
 83) Number of provinces : <https://leetcode.com/problems/number-of-provinces/>
+84) Pangram : <https://leetcode.com/problems/check-if-the-sentence-is-pangram/>
 
 ## Answers File name according to numbers
 
@@ -184,6 +185,7 @@
 81) Array/heightChecker.cpp
 82) Array/searchInsertPosition.cpp
 83) Backtracking/provinces.cpp
+84) String/pangram.cpp
 
 ## GFG 
 * Backtracking
