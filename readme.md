@@ -96,6 +96,7 @@
 79) Find common characters in words : <https://leetcode.com/problems/find-common-characters/>
 80) Square of a sorted array : <https://leetcode.com/problems/squares-of-a-sorted-array/>
 81) Heigh Checker : <https://leetcode.com/problems/height-checker/>
+82) Search Insert Position : <https://leetcode.com/problems/search-insert-position/>
 
 ## Answers File name according to numbers
 
@@ -180,6 +181,8 @@
 79) String/findCommonCharacters.cpp
 80) Array/squareSortedArray.cpp
 81) Array/heightChecker.cpp
+82) Array/searchInsertPosition.cpp
+
 
 ## GFG 
 * Backtracking
