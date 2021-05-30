@@ -93,6 +93,7 @@
 76) Kth Smallest Element in a BST : <https://leetcode.com/problems/kth-smallest-element-in-a-bst/>
 77) Minimum Absolute difference in bst : <>
 78) Split a balanced string : <https://leetcode.com/problems/split-a-string-in-balanced-strings/>
+79) Find common characters in words : <https://leetcode.com/problems/find-common-characters/>
 
 ## Answers File name according to numbers
 
@@ -174,6 +175,7 @@
 76) Tree/kthSmallestElementBST.cpp
 77) Tree/minAbsDiffBST.cpp
 78) String/balacedString.cpp
+79) String/findCommonCharacters.cpp
 
 ## GFG 
 * Backtracking
