@@ -94,6 +94,7 @@
 77) Minimum Absolute difference in bst : <>
 78) Split a balanced string : <https://leetcode.com/problems/split-a-string-in-balanced-strings/>
 79) Find common characters in words : <https://leetcode.com/problems/find-common-characters/>
+80) Square of a sorted array : <https://leetcode.com/problems/squares-of-a-sorted-array/>
 
 ## Answers File name according to numbers
 
@@ -176,6 +177,7 @@
 77) Tree/minAbsDiffBST.cpp
 78) String/balacedString.cpp
 79) String/findCommonCharacters.cpp
+80) Array/squareSortedArray.cpp
 
 ## GFG 
 * Backtracking
