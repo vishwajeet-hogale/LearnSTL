@@ -99,6 +99,8 @@
 82) Search Insert Position : <https://leetcode.com/problems/search-insert-position/>
 83) Number of provinces : <https://leetcode.com/problems/number-of-provinces/>
 84) Pangram : <https://leetcode.com/problems/check-if-the-sentence-is-pangram/>
+85) Palindrome Number : <https://leetcode.com/problems/palindrome-number/>
+86) Add two strings : <>
 
 ## Answers File name according to numbers
 
@@ -186,7 +188,8 @@
 82) Array/searchInsertPosition.cpp
 83) Backtracking/provinces.cpp
 84) String/pangram.cpp
-
+85) palindromeNumber.cpp
+86) String/addTwoStrings.cpp
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
