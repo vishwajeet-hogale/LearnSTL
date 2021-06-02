@@ -47,9 +47,7 @@ void all_solutions(vector<int> &r,int i,int turned_on,vector<int> &all_times){
 }
 vector<string> readBinaryWatch(int turnedOn) {
     vector<int> r;
-    if(turnedOn == 9){
-        return res;
-    }
+    
     vector<int> all_times({8,4,2,1,32,16,8,4,2,1});
     all_solutions(r,0,turnedOn,all_times);
     return res;
