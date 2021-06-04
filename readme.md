@@ -103,6 +103,7 @@
 86) Add two strings : <>
 87) Minimum Number of Days to Eat N Oranges : <https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/>
 88) Binary Watch : <https://leetcode.com/problems/binary-watch/>
+89) Prison Cells after N days : <https://leetcode.com/problems/prison-cells-after-n-days/>
 
 ## Answers File name according to numbers
 
@@ -194,6 +195,7 @@
 86) String/addTwoStrings.cpp
 87) Recursion/fruits.cpp
 88) Backtracking/binaryWatch.cpp
+89) Array/prisonCellsAfterNdays.cpp
 
 ## GFG 
 * Backtracking
