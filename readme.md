@@ -104,6 +104,7 @@
 87) Minimum Number of Days to Eat N Oranges : <https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/>
 88) Binary Watch : <https://leetcode.com/problems/binary-watch/>
 89) Prison Cells after N days : <https://leetcode.com/problems/prison-cells-after-n-days/>
+90) Student Attendance Record I : <https://leetcode.com/problems/student-attendance-record-i/>
 
 ## Answers File name according to numbers
 
@@ -196,6 +197,7 @@
 87) Recursion/fruits.cpp
 88) Backtracking/binaryWatch.cpp
 89) Array/prisonCellsAfterNdays.cpp
+90) String/StudentAttendanceRecord.cpp
 
 ## GFG 
 * Backtracking
