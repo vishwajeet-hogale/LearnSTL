@@ -107,6 +107,7 @@
 90) Student Attendance Record I : <https://leetcode.com/problems/student-attendance-record-i/>
 91) Power of Two : <https://leetcode.com/problems/power-of-two/>
 92) Open Lock : <https://leetcode.com/problems/open-the-lock/>
+93) Max area island : <https://leetcode.com/problems/max-area-of-island/>
 
 ## Answers File name according to numbers
 
@@ -202,6 +203,7 @@
 90) String/StudentAttendanceRecord.cpp
 91) Recursion/powerOfTwo.cpp
 92) Leetcode_challenges/Day4/openLock.cpp 
+93) Leetcode_challenges/Day4/maxAreaIsland.cpp
 
 ## GFG 
 * Backtracking
