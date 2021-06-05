@@ -219,13 +219,13 @@
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
 
 * Dynamic Programming 
-- If you identify that a problem can be solved using DP
-- Try to create a backtrack function that calculates the correct answer. 
-- Try to avoid the redundant arguments, minimize the range of possible values of function arguments
-- Try to optimize the time complexity of one function call 
-- Memoize the values and don't calculate the same things twice.
-- Key points to remember of Dp : 
-    * Optimal substructure :  Optimal solution to a problem involves optimal solutions to sub-problems.
-    * Overlapping Sub-problems : Subproblems once computed can be stored in a table for further use. This saves the time needed to compute the same sub-problems again and again.
-- Exponential runtime can be converted/brought down to polynomial runtime.
+    - If you identify that a problem can be solved using DP
+    - Try to create a backtrack function that calculates the correct answer. 
+    - Try to avoid the redundant arguments, minimize the range of possible values of function arguments
+    - Try to optimize the time complexity of one function call 
+    - Memoize the values and don't calculate the same things twice.
+    - Key points to remember of Dp : 
+        * Optimal substructure :  Optimal solution to a problem involves optimal solutions to sub-problems.
+        * Overlapping Sub-problems : Subproblems once computed can be stored in a table for further use. This saves the time needed to compute the same sub-problems again and again.
+    - Exponential runtime can be converted/brought down to polynomial runtime.
 
