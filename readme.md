@@ -110,6 +110,7 @@
 93) Max area island : <https://leetcode.com/problems/max-area-of-island/>
 94) Two sum BST : <https://leetcode.com/problems/two-sum-iv-input-is-a-bst/>
 95) GC of two strings : <https://leetcode.com/problems/greatest-common-divisor-of-strings/>
+96) Reverse Vowels : <https://leetcode.com/problems/reverse-vowels-of-a-string/>
 
 ## Answers File name according to numbers
 
@@ -208,6 +209,7 @@
 93) Leetcode_challenges/Day4/maxAreaIsland.cpp
 94) Tree/twoSumBST.cpp
 95) String/gcdOfStrings.cpp
+96) String/reverseVowels.cpp
 
 ## GFG 
 * Backtracking
