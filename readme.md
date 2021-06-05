@@ -105,6 +105,8 @@
 88) Binary Watch : <https://leetcode.com/problems/binary-watch/>
 89) Prison Cells after N days : <https://leetcode.com/problems/prison-cells-after-n-days/>
 90) Student Attendance Record I : <https://leetcode.com/problems/student-attendance-record-i/>
+91) Power of Two : <https://leetcode.com/problems/power-of-two/>
+92) Open Lock : <https://leetcode.com/problems/open-the-lock/>
 
 ## Answers File name according to numbers
 
@@ -198,6 +200,8 @@
 88) Backtracking/binaryWatch.cpp
 89) Array/prisonCellsAfterNdays.cpp
 90) String/StudentAttendanceRecord.cpp
+91) Recursion/powerOfTwo.cpp
+92) Leetcode_challenges/Day4/openLock.cpp 
 
 ## GFG 
 * Backtracking
