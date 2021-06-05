@@ -109,6 +109,7 @@
 92) Open Lock : <https://leetcode.com/problems/open-the-lock/>
 93) Max area island : <https://leetcode.com/problems/max-area-of-island/>
 94) Two sum BST : <https://leetcode.com/problems/two-sum-iv-input-is-a-bst/>
+95) GC of two strings : <https://leetcode.com/problems/greatest-common-divisor-of-strings/>
 
 ## Answers File name according to numbers
 
@@ -206,6 +207,7 @@
 92) Leetcode_challenges/Day4/openLock.cpp 
 93) Leetcode_challenges/Day4/maxAreaIsland.cpp
 94) Tree/twoSumBST.cpp
+95) String/gcdOfStrings.cpp
 
 ## GFG 
 * Backtracking
