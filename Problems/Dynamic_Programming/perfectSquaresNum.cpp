@@ -31,7 +31,7 @@ public:
     }
 };
 int main(){
-    int n = 126;
+    int n = 233; // 169 + 64 output = 2
     Solution s;
     cout<<s.numSquares(n)-1<<endl;
     return 0;
