@@ -1,5 +1,6 @@
 #include<iostream>
 #include<bits/stdc++.h>
+#include<math.h>
 using namespace std;
 
 /* Approach one is an intuitive brute force approach and it is not right */
@@ -34,35 +35,48 @@ using namespace std;
 //         r.pop_back();
 //     }
 // }
-int cmp(pair<int,int> &a ,pair<int,int> &b){
-    return a.first >=  b.first;
-}
-int maxPerformance(int n, vector<int>& speed, vector<int>& efficiency, int k) {
-        priority_queue<int> p;
-        vector<pair<int,int>> zip;
-        for(int i=0;i<n;i++){
-            zip.push_back(make_pair(efficiency[i],speed[i]));
+
+/* Greedy approach by choosing the minimum efficiency and then maximizing the speed of the other 
+efficiencies greater than the fixed efficiency. Thereby maximizing the performance*/
+
+class Solution {
+public:
+    int maxPerformance(int n, vector<int>& speed, vector<int>& efficiency, int k) {
+        vector<pair<int,int>> perf(n);
+        for(int i=0;i<n;i++)
+        {
+            perf[i]={efficiency[i],speed[i]};
         }
-        sort(zip.begin(),zip.end(),cmp); 
-        int speed_sum = 0;
-        int sum_max = 0;
-        int perf = 0;
-        for(int i=0;i<n;i++){ 
-            if(p.size() > k -1 ){
-                speed_sum -= p.top().second;
-                p.pop();
+        
+        //sort the perf in descending order
+        sort(rbegin(perf),rend(perf));
+        
+        //priority queue to get the smallest sum 
+        priority_queue<int,vector<int>,greater<int>> pq; //min heap
+        long sum=0;
+        long  res=0;
+        for(auto [eff,int s] : perf)
+        {
+            sum+=speed;
+			//push the current speed to the pq
+            pq.push(speed);
+            if(pq.size()>k)
+            {
+                //remove the smallest speed
+                sum-=pq.top();
+                pq.pop();
             }
-            p.push(x);
-            speed_sum += x.second;
-            perf = max(perf,speed_sum * x.first);
+			//since eff is the currents small efficiency 
+            res=max(res,sum*eff);
         }
-        return perf % 1000000007;
-}
+        return res % (int)(1e9+7);
+    }
+};
 int main(){
     vector<int> speed({2,8,2});
     vector<int> efficiency({2,7,1});
     vector<int> r;int k = 2;
-    
-    cout<<maxPerformance(3,speed,efficiency,2)<<endl;
+    Solution s;
+    cout<<s.maxPerformance(3,speed,efficiency,2)<<endl;
     return 0;
 }
