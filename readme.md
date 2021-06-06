@@ -113,6 +113,7 @@
 96) Reverse Vowels : <https://leetcode.com/problems/reverse-vowels-of-a-string/>
 97) Maximum value at each level in a Binary tree : <https://leetcode.com/problems/find-largest-value-in-each-tree-row/>
 98) Longest Consecutive Sequence : <https://leetcode.com/problems/longest-consecutive-sequence/>
+99) 3Sum : <https://leetcode.com/problems/3sum/>
 
 ## Answers File name according to numbers
 
@@ -214,6 +215,7 @@
 96) String/reverseVowels.cpp
 97) Tree/maxValInLevel.cpp
 98) Leetcode_challenges/Day6/longestconsecutivesequence.cpp
+99) Array/3sum.cpp
 
 ## GFG 
 * Backtracking
