@@ -115,6 +115,7 @@
 98) Longest Consecutive Sequence : <https://leetcode.com/problems/longest-consecutive-sequence/>
 99) 3Sum : <https://leetcode.com/problems/3sum/>
 100) Minimum cost climbinf stairs
+101) Unique Paths II : <https://leetcode.com/problems/unique-paths-ii/>
 
 ## Answers File name according to numbers
 
@@ -218,6 +219,7 @@
 98) Leetcode_challenges/Day6/longestconsecutivesequence.cpp
 99) Array/3sum.cpp
 100) Leetcode_challenges/Day7/minCostClimbingStairs.cpp
+101) Backtracking/uniquePathsII.cpp
 
 ## GFG 
 * Backtracking
