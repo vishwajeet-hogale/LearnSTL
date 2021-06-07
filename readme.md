@@ -114,6 +114,7 @@
 97) Maximum value at each level in a Binary tree : <https://leetcode.com/problems/find-largest-value-in-each-tree-row/>
 98) Longest Consecutive Sequence : <https://leetcode.com/problems/longest-consecutive-sequence/>
 99) 3Sum : <https://leetcode.com/problems/3sum/>
+100) Minimum cost climbinf stairs
 
 ## Answers File name according to numbers
 
@@ -216,6 +217,7 @@
 97) Tree/maxValInLevel.cpp
 98) Leetcode_challenges/Day6/longestconsecutivesequence.cpp
 99) Array/3sum.cpp
+100) Leetcode_challenges/Day7/minCostClimbingStairs.cpp
 
 ## GFG 
 * Backtracking
