@@ -118,6 +118,7 @@
 101) Unique Paths II : <https://leetcode.com/problems/unique-paths-ii/>
 102) House Robber : <https://leetcode.com/problems/house-robber/>
 103) Minimum Number of Vertices to Reach All Nodes : <https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/>
+104) Divisor Game : <https://leetcode.com/problems/divisor-game/>
 
 ## Answers File name according to numbers
 
@@ -224,6 +225,7 @@
 101) Backtracking/uniquePathsII.cpp
 102) Array/houserobber.cpp
 103) Graph/minNumberOfNodesNeededTOVisitAllNodes.cpp
+104) divisorGame.cpp
 
 ## GFG 
 * Backtracking
