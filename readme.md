@@ -120,6 +120,7 @@
 103) Minimum Number of Vertices to Reach All Nodes : <https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/>
 104) Divisor Game : <https://leetcode.com/problems/divisor-game/>
 105) Left view of tree 
+106) Rod cutting : maximize product 
 
 ## Answers File name according to numbers
 
@@ -228,6 +229,7 @@
 103) Graph/minNumberOfNodesNeededTOVisitAllNodes.cpp
 104) divisorGame.cpp
 105) Tree/leftViewOfTree.cpp
+106) Dynamic_Programming/maxProductRodCutting.cpp
 
 ## GFG 
 * Backtracking
