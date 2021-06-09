@@ -12,6 +12,18 @@ struct ListNode
 class Solution
 {
 public:
+    // ListNode *ptr = NULL;
+    // bool helper(ListNode *headA, ListNode *headB){
+    //      if(headA == headB){
+    //         ptr = headA;
+    //         return true;
+    //     }
+    //     if(!headA || !headB){
+    //         return 0;
+    //     }
+    //     return getIntersectionNode(headA->next,headB) || getIntersectionNode(headA,headB->next) || helper(headA->next,headB->next);
+    // }
+    
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB)
     {
         vector<ListNode *> m;
@@ -27,5 +39,17 @@ public:
             headB = headB->next;
         }
         return NULL;
+    //    int f = helper(headA,headB);
+    //    if(f)
+    //         return ptr;
+    //     return NULL;
     }
 };
+
+
+
+
+
+
+
+
