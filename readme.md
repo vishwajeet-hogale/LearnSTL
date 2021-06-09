@@ -121,6 +121,7 @@
 104) Divisor Game : <https://leetcode.com/problems/divisor-game/>
 105) Left view of tree 
 106) Rod cutting : maximize product 
+107) Sum of left view
 
 ## Answers File name according to numbers
 
@@ -230,7 +231,7 @@
 104) divisorGame.cpp
 105) Tree/leftViewOfTree.cpp
 106) Dynamic_Programming/maxProductRodCutting.cpp
-
+107) Tree/sumOfLeftView.cpp
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
