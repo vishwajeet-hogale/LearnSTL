@@ -123,6 +123,7 @@
 106) Rod cutting : maximize product 
 107) Sum of left view
 108) Convert BS to sorted Linked List 
+109) Find the City With the Smallest Number of Neighbors at a Threshold Distance : <https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/>
 
 ## Answers File name according to numbers
 
@@ -234,6 +235,8 @@
 106) Dynamic_Programming/maxProductRodCutting.cpp
 107) Tree/sumOfLeftView.cpp
 108) Tree/bstTOSortedLinkedList.cpp
+109) Graph/smallestNuberOfNeighBoursAtThresholdDistance.cpp
+
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
