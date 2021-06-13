@@ -124,6 +124,7 @@
 107) Sum of left view
 108) Convert BS to sorted Linked List 
 109) Find the City With the Smallest Number of Neighbors at a Threshold Distance : <https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/>
+110) Count Numbers with Unique Digits : <https://leetcode.com/problems/count-numbers-with-unique-digits/>
 
 ## Answers File name according to numbers
 
@@ -236,6 +237,7 @@
 107) Tree/sumOfLeftView.cpp
 108) Tree/bstTOSortedLinkedList.cpp
 109) Graph/smallestNuberOfNeighBoursAtThresholdDistance.cpp
+110) Backtracking/countUniqueDigitNumbers.cpp
 
 ## GFG 
 * Backtracking
