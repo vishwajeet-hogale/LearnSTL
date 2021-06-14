@@ -127,6 +127,7 @@
 110) Count Numbers with Unique Digits : <https://leetcode.com/problems/count-numbers-with-unique-digits/>
 111) Palindrome pairs 
 112) Minimum Number Units oN a Truck
+113) Min jums to reach n-1 position : 
 
 ## Answers File name according to numbers
 
@@ -242,6 +243,7 @@
 110) Backtracking/countUniqueDigitNumbers.cpp
 111) Leetcode_challenge/Day13/palindromePairs.cpp
 112) Leetcode_challenge/Day13/minNumberOfUnitsTruck.cpp
+113) Greedy/minJumps2.cpp
 
 ## GFG 
 * Backtracking
