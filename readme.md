@@ -126,6 +126,7 @@
 109) Find the City With the Smallest Number of Neighbors at a Threshold Distance : <https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/>
 110) Count Numbers with Unique Digits : <https://leetcode.com/problems/count-numbers-with-unique-digits/>
 111) Palindrome pairs 
+112) Minimum Number Units oN a Truck
 
 ## Answers File name according to numbers
 
@@ -239,7 +240,8 @@
 108) Tree/bstTOSortedLinkedList.cpp
 109) Graph/smallestNuberOfNeighBoursAtThresholdDistance.cpp
 110) Backtracking/countUniqueDigitNumbers.cpp
-110) Leetcode_challenge/Day13/palindromePairs.cpp
+111) Leetcode_challenge/Day13/palindromePairs.cpp
+112) Leetcode_challenge/Day13/minNumberOfUnitsTruck.cpp
 
 ## GFG 
 * Backtracking
