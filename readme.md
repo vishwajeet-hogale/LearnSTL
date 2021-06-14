@@ -130,6 +130,7 @@
 113) Min jums to reach n-1 position : 
 114) Flip an image : <https://leetcode.com/problems/flipping-an-image/>
 115) Leaf similar trees : <https://leetcode.com/problems/leaf-similar-trees/>
+116) Remove outer parantheses : <https://leetcode.com/problems/remove-outermost-parentheses/>
 
 ## Answers File name according to numbers
 
@@ -248,6 +249,7 @@
 113) Greedy/minJumps2.cpp
 114) Array/flipImage.py
 115) Tree/leafSimilar.cpp
+116) String/removeOuterParentheses.cpp
 
 ## GFG 
 * Backtracking
