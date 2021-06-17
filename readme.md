@@ -136,6 +136,8 @@
 119) Filter Restaurants by Vegan-Friendly, Price and Distance : <https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/>
 120) House robber II : <https://leetcode.com/problems/house-robber-ii/>
 121) Combination Sum 3 : <https://leetcode.com/problems/combination-sum-iii/>
+122) Remove Covered Intervals : <https://leetcode.com/problems/remove-covered-intervals/>
+
 ## Answers File name according to numbers
 
 1) equalarr.cpp (c++ STL approach)
@@ -259,7 +261,7 @@
 119) Array/filterRestaurant.cpp
 120) Dynamic_Programming/houseRobber-ii.cpp
 121) Backtracking/combinationSum3.cpp
-
+122) Array/removeCoveredIntervals.cpp
 
 ## GFG 
 * Backtracking
