@@ -137,7 +137,7 @@
 120) House robber II : <https://leetcode.com/problems/house-robber-ii/>
 121) Combination Sum 3 : <https://leetcode.com/problems/combination-sum-iii/>
 122) Remove Covered Intervals : <https://leetcode.com/problems/remove-covered-intervals/>
-
+123) Longest Word in Dictionary through Deleting : <https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/>
 ## Answers File name according to numbers
 
 1) equalarr.cpp (c++ STL approach)
@@ -262,6 +262,7 @@
 120) Dynamic_Programming/houseRobber-ii.cpp
 121) Backtracking/combinationSum3.cpp
 122) Array/removeCoveredIntervals.cpp
+123) String/longestWordDictionaryThroughDeletion.cpp
 
 ## GFG 
 * Backtracking
