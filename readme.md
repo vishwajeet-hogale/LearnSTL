@@ -139,6 +139,7 @@
 122) Remove Covered Intervals : <https://leetcode.com/problems/remove-covered-intervals/>
 123) Longest Word in Dictionary through Deleting : <https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/>
 124) Path with maximum gold : <https://leetcode.com/problems/path-with-maximum-gold/>
+125) Word Search : <https://leetcode.com/problems/word-search/>
 ## Answers File name according to numbers
 
 1) equalarr.cpp (c++ STL approach)
@@ -265,6 +266,7 @@
 122) Array/removeCoveredIntervals.cpp
 123) String/longestWordDictionaryThroughDeletion.cpp
 124) Graph/goldRunner.cpp
+125) Graph/wordSearch.cpp
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
