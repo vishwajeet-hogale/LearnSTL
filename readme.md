@@ -138,6 +138,7 @@
 121) Combination Sum 3 : <https://leetcode.com/problems/combination-sum-iii/>
 122) Remove Covered Intervals : <https://leetcode.com/problems/remove-covered-intervals/>
 123) Longest Word in Dictionary through Deleting : <https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/>
+124) Path with maximum gold : <https://leetcode.com/problems/path-with-maximum-gold/>
 ## Answers File name according to numbers
 
 1) equalarr.cpp (c++ STL approach)
@@ -263,7 +264,7 @@
 121) Backtracking/combinationSum3.cpp
 122) Array/removeCoveredIntervals.cpp
 123) String/longestWordDictionaryThroughDeletion.cpp
-
+124) Graph/goldRunner.cpp
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
