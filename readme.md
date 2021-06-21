@@ -142,6 +142,7 @@
 125) Word Search : <https://leetcode.com/problems/word-search/>
 126) Minimum Insertion Steps to Make a String Palindrome : <https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/>
 127) Odd Even List : <https://leetcode.com/problems/odd-even-linked-list/>
+128) Boats to save people : <https://leetcode.com/problems/boats-to-save-people/>
 
 ## Answers File name according to numbers
 
@@ -272,7 +273,7 @@
 125) Graph/wordSearch.cpp
 126) String/minInsertionsToMakePalindrome.cpp
 127) LinkedList/oddEvenList.cpp
-
+128) Greedy/boatsToSavePeople.cpp
 ## GFG 
 * Backtracking
     * <https://www.geeksforgeeks.org/backtracking-algorithms/>
