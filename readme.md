@@ -141,6 +141,7 @@
 124) Path with maximum gold : <https://leetcode.com/problems/path-with-maximum-gold/>
 125) Word Search : <https://leetcode.com/problems/word-search/>
 126) Minimum Insertion Steps to Make a String Palindrome : <https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/>
+127) Odd Even List : <https://leetcode.com/problems/odd-even-linked-list/>
 
 ## Answers File name according to numbers
 
@@ -270,6 +271,7 @@
 124) Graph/goldRunner.cpp
 125) Graph/wordSearch.cpp
 126) String/minInsertionsToMakePalindrome.cpp
+127) LinkedList/oddEvenList.cpp
 
 ## GFG 
 * Backtracking
